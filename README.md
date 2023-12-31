@@ -18,8 +18,7 @@
 
 [필수능력단위 PDF 파일 전체 다운로드](https://github.com/kwb020312/AI_L5/blob/main/AI_L5_PDF.zip)
 
-![image](https://github.com/kwb020312/AI_L5/assets/46777310/96ee8d72-8455-4ce7-8c35-f2ed2ca48407)
-
+![필수능력단위 PDF 다운로드 방법](https://github.com/kwb020312/AI_L5/assets/46777310/96ee8d72-8455-4ce7-8c35-f2ed2ca48407)
 
 <table>
     <tr>
