@@ -16,6 +16,8 @@
 
 ## 필수능력단위
 
+[필수능력단위 PDF 파일 전체 다운로드](https://github.com/kwb020312/AI_L5/blob/main/AI_L5_PDF.zip)
+
 <table>
     <tr>
         <th>대분류</th>
