@@ -155,3 +155,7 @@
         <td colspan="4" style="text-align: center;">===============</td>
     </tr>
 </table>
+
+## 기출문제
+
+[인공지능L5의 기출문제](https://github.com/kwb020312/AI_L5/blob/main/%5B%EA%B3%B5%EA%B0%9C%EC%9E%90%EB%A3%8C%5D%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EA%B0%9C%EB%B0%9C_L5_22V1.pdf)는 해당 페이지에서 확인이 가능하며, 단일 PDF이기 때문에 따로 저장할 필요 없이 뷰어로도 조회가 가능하다.
